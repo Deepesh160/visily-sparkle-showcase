@@ -99,7 +99,7 @@ const Footer = () => {
               <div className="w-12 h-12 bg-gradient-hero rounded-xl flex items-center justify-center">
                 <Leaf className="w-6 h-6 text-white" />
               </div>
-              <h3 className="text-2xl font-bold text-primary">AyurTrace</h3>
+              <h3 className="text-2xl font-bold text-primary">HerbTrust</h3>
             </div>
 
             <p className="text-muted-foreground leading-relaxed max-w-md">
@@ -111,7 +111,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-sm">
                 <Mail className="w-4 h-4 text-primary" />
-                <span>hello@ayurtrace.com</span>
+                <span>hello@herbtrust.com</span>
               </div>
               <div className="flex items-center gap-3 text-sm">
                 <Phone className="w-4 h-4 text-primary" />
@@ -195,7 +195,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="text-sm text-muted-foreground">
-              © 2024 AyurTrace. All rights reserved. Powered by blockchain technology.
+              © 2024 HerbTrust. All rights reserved. Powered by blockchain technology.
             </div>
             <Button 
               variant="ghost" 

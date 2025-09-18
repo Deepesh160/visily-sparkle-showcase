@@ -49,7 +49,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-5 h-5" />,
       title: "Email Us",
-      detail: "hello@ayurtrace.com",
+      detail: "hello@herbtrust.com",
       subdtail: "We'll respond within 24 hours"
     },
     {
@@ -89,7 +89,7 @@ const Contact = () => {
             Ready to Transform Your <span className="text-primary">Supply Chain?</span>
           </h2>
           <p className="text-xl text-muted-foreground">
-            Get in touch with our team to learn how AyurTrace can bring transparency 
+            Get in touch with our team to learn how HerbTrust can bring transparency 
             and trust to your herb supply chain.
           </p>
         </div>

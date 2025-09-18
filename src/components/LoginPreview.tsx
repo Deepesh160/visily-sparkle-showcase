@@ -61,7 +61,7 @@ const LoginPreview = () => {
                   <div className="w-12 h-12 bg-gradient-hero rounded-xl flex items-center justify-center">
                     <Leaf className="w-6 h-6 text-white" />
                   </div>
-                  <h3 className="text-2xl font-bold text-primary">AyurTrace</h3>
+                  <h3 className="text-2xl font-bold text-primary">HerbTrust</h3>
                 </div>
                 <CardTitle className="text-xl">Welcome Back</CardTitle>
                 <p className="text-muted-foreground">
@@ -117,7 +117,7 @@ const LoginPreview = () => {
                     <Input
                       id="email"
                       type="email"
-                      placeholder="example@ayurtrace.com"
+                      placeholder="example@herbtrust.com"
                       className="w-full"
                     />
                   </div>
@@ -152,7 +152,7 @@ const LoginPreview = () => {
                       <Shield className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                       <div className="text-sm">
                         <p className="text-muted-foreground">
-                          AyurTrace leverages blockchain to ensure{" "}
+                          HerbTrust leverages blockchain to ensure{" "}
                           <span className="font-medium text-foreground">transparency</span> and{" "}
                           <span className="font-medium text-foreground">trust</span> in every herb's 
                           journey from farm to consumer.

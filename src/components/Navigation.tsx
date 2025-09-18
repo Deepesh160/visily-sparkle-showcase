@@ -63,7 +63,7 @@ const Navigation = () => {
               <Leaf className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-primary">AyurTrace</h1>
+              <h1 className="text-xl font-bold text-primary">HerbTrust</h1>
               <Badge variant="secondary" className="text-xs">Beta</Badge>
             </div>
           </div>
@@ -133,7 +133,7 @@ const Navigation = () => {
                   <div className="w-8 h-8 bg-gradient-hero rounded-lg flex items-center justify-center">
                     <Leaf className="w-4 h-4 text-white" />
                   </div>
-                  <span className="text-lg font-bold text-primary">AyurTrace</span>
+                  <span className="text-lg font-bold text-primary">HerbTrust</span>
                 </div>
                 <Button 
                   variant="ghost" 

@@ -35,12 +35,12 @@ const About = () => {
       <div className="container mx-auto px-4">
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16 animate-fade-in">
-          <Badge variant="secondary" className="mb-4">About AyurTrace</Badge>
+          <Badge variant="secondary" className="mb-4">About HerbTrust</Badge>
           <h2 className="text-4xl font-bold mb-6">
             Bridging Ancient Wisdom with <span className="text-primary">Modern Technology</span>
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
-            AyurTrace combines the time-tested benefits of Ayurvedic herbs with cutting-edge blockchain 
+            HerbTrust combines the time-tested benefits of Ayurvedic herbs with cutting-edge blockchain 
             technology to create the world's most trusted herb traceability platform.
           </p>
         </div>
